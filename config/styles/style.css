@@ -1,0 +1,47 @@
+
+:root{
+    --background: rgba(218, 165, 32, .85)
+}
+
+header{
+    text-align: center;
+    background-color:  var(--background);
+    z-index: 999;
+    position: fixed;
+    width: 100%;
+    margin: 0px;
+    padding: 10px;
+}
+
+nav{
+position: absolute;
+text-align: left;
+top: 100%;
+left: 0;
+}
+
+nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li{
+    margin-bottom: 1em;
+    margin-left: 1em;
+}
+
+
+h1{
+    color: blue;
+}
+
+.backgroundphoto{
+    height: 200px;
+    width: 500px;
+}
+
+
+div ul li a{
+color: white;
+}
