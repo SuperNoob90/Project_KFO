@@ -1,4 +1,4 @@
-import React from "React";
+import React from "react";
 import "./blog.css";
 
 const Blog = () => {
@@ -8,3 +8,5 @@ const Blog = () => {
         </div>
     )
 }
+
+export default Blog

@@ -1,4 +1,4 @@
-import React from "React";
+import React from "react";
 import "./brand.css";
 
 const Brand = () => {
@@ -8,3 +8,5 @@ const Brand = () => {
         </div>
     )
 }
+
+export default Brand;

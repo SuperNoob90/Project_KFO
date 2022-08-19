@@ -1,4 +1,4 @@
-import React from "React";
+import React from "react";
 import "./whatGPT3.css";
 
 const WhatGPT3 = () => {
@@ -8,3 +8,5 @@ const WhatGPT3 = () => {
         </div>
     )
 }
+
+export default WhatGPT3

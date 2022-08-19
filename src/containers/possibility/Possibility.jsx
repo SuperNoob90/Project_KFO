@@ -1,4 +1,4 @@
-import React from "React";
+import React from "react";
 import "./possibility.css";
 
 const Possibility = () => {
@@ -8,3 +8,5 @@ const Possibility = () => {
         </div>
     )
 }
+
+export default Possibility

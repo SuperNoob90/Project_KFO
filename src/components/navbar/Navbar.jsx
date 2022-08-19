@@ -1,4 +1,4 @@
-import React from "React";
+import React from "react";
 import "./navbar.css";
 
 const Navbar = () => {
@@ -8,3 +8,5 @@ const Navbar = () => {
         </div>
     )
 }
+
+export default Navbar

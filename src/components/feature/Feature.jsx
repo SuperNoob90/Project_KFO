@@ -1,4 +1,4 @@
-import React from "React";
+import React from "react";
 import "./feature.css";
 
 const Feature = () => {
@@ -8,3 +8,5 @@ const Feature = () => {
         </div>
     )
 }
+
+export default Feature
